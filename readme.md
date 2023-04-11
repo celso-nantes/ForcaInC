@@ -1,4 +1,4 @@
-##Jogo da velha em c
+## Jogo da forca em C
 
 Trabalho feito por Celso Nantes e Gabriel Saymon
 
